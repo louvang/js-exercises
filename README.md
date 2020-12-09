@@ -114,4 +114,4 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 
 #### Other
 
-- [Find the Oldest](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/leap-years.js) (The Odin Project) - `if` statements
+- [Leap Years](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/leap-years.js) (The Odin Project) - `if` statements
