@@ -35,7 +35,7 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 - [Loops](#loops)
 - [Regex](#regex)
 - [String Methods](#string-methods)
-- [Number/Math Methods](#number-math-methods)
+- [Number/Math Methods](#numbermath-methods)
 - [Array Methods](#array-methods)
 - [Misc Methods](misc-methods)
 - [Objects](#objects)
