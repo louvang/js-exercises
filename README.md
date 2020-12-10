@@ -28,8 +28,6 @@ console.log(addNums(4, 19));
 
 The solutions are all listed below and sorted via various JavaScript concepts and methods. Some solutions may be listed multiple times. I've compiled these exercises as an easy reference for me should I get stuck anywhere during my future code endeavours.
 
-If navigating via JavaScript concepts and methods isn't your cup of tea, you can navigate through the directories. I've sorted each solution by the location I've received the exercise from (Codewars, freeCodeCamp, The Odin Project, etc.).
-
 ## Solutions
 
 - [Loops](#loops)
@@ -44,13 +42,17 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 
 #### Loops
 
+- [Factorialize a Number](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/factorialize-a-number.js) (freeCodeCamp) - looping to multiply numbers
 - [Fibonacci](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/fibonacci.js) (Codewars) - looping to add elements to an array
 - [Mexican Wave](https://github.com/voidteddy/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - looping through string characters
 - [Multiples of 3 and 5](https://github.com/voidteddy/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `sum += i`
 - [Palindromes](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/palindromes.js) (The Odin Project) - looping to add elements to an array
+- [Repeat a String Repeat a String](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/repeat-string.js) (freeCodeCamp) - looping to repeat a string
 - [Repeat String](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/repeat-string.js) (The Odin Project) - looping to repeat a string
+- [Reverse a String](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/reverse-a-string.js) (freeCodeCamp) - looping to add strings to a string
 - [Reverse String](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/reverse-string.js) (The Odin Project) - looping to add strings to a string
 - [Sum All](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/sum-all.js) (The Odin Project) - looping to find sum
+- [Where Do I Belong](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/where-do-i-belong.js) (freeCodeCamp) - looping through array to find index
 
 #### Regex
 
@@ -62,20 +64,26 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 
 - [Bit Counting](https://github.com/voidteddy/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `String.split()`
 - [Caesar Cipher](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/caesar-cipher.js) (The Odin Project) - `String.fromCharCode()`, `String.charCodeAt()`
+- [Confirm the Ending](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/confirm-the-ending.js) (freeCodeCamp) - `String.slice()`
 - [Detect Pangram](https://github.com/voidteddy/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `String.split()`
 - [Jaden Casing Strings](https://github.com/voidteddy/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `String.split()`, creating string method: `String.prototype.myOwnMethod()`
 - [Mexican Wave](https://github.com/voidteddy/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.toUpperCase()`, `String.slice()`
 - [Mumbling](https://github.com/voidteddy/js-exercises/blob/main/codewars/mumbling.js) (Codewars) - `String.toLowerCase()`, `String.toUpperCase()`, `String.repeat()`
+- [Mutations](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/mutations.js) (freeCodeCamp) - `String.indexOf()`, `String.toLowerCase()`
 - [Reverse String](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/reverse-string.js) (The Odin Project) - `String.charAt()`
 - [Shortest Word](https://github.com/voidteddy/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `String.split()`
 - [Stop gninnipS My sdroW!](https://github.com/voidteddy/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `String.split()`
+- [Title Casing a Sentence](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `String.toLowerCase`, `String.toUpperCase()`, `String.slice()`,
+- [Truncate a String](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/truncate-a-string.js) (freeCodeCamp) - `String.slice()`
 
 #### Number/Math Methods
 
 - [Bit Counting](https://github.com/voidteddy/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Number.toString(2)`
 - [Calculator](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/calculator.js) (The Odin Project) - `Math.pow()`
+- [Find the Longest Word In a String](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Math.max()`
 - [Find the Next Perfect Square](https://github.com/voidteddy/js-exercises/blob/main/codewars/find-the-next-perfect-square.js) (Codewars) - `Math.sqrt()`
 - [Remove the Minimum](https://github.com/voidteddy/js-exercises/blob/main/codewars/remove-the-minimum.js) (Codewars) - `Math.min()`
+- [Return the Largest Numbers in Arrays](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/largest-numbers.js) (freeCodeCamp) - `Math.max()`
 - [Shortest Word](https://github.com/voidteddy/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `Math.min()`
 - [Temp Conversion](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/temp-conversion.js) (Codewars) - `Number.toFixed()`
 
@@ -84,8 +92,11 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 - [Bit Counting](https://github.com/voidteddy/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Array.reduce()`
 - [Caesar Cipher](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/caesar-cipher.js) (The Odin Project) - `Array.map()`, `Array.join()`
 - [Calculator](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/calculator.js) (The Odin Project) - `Array.reduce()`, `Array.push()`
+- [Chunky Monkey](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/chunky-monkey.js) (freeCodeCamp) - `Array.push()`
 - [Detect Pangram](https://github.com/voidteddy/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `Array.every()`
+- [Find the Longest Word In a String](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Array.map()`
 - [Find the Oldest](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Array.reduce()`
+- [Finders Keepers](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/finders-keepers.js) (freeCodeCamp) - `Array.find()`
 - [Friend or Foe?](https://github.com/voidteddy/js-exercises/blob/main/codewars/friend-or-foe.js) (Codewars) - `Array.filter()`
 - [Get the Titles](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - `Array.map()`
 - [Jaden Casing Strings](https://github.com/voidteddy/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `Array.map()`, `Array.join()`
@@ -95,9 +106,13 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 - [Remove from Array](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/remove-from-array.js) (The Odin Project) - `Array.splice()`, `Array.indexOf()`
 - [Remove the Minimum](https://github.com/voidteddy/js-exercises/blob/main/codewars/remove-the-minimum.js) (Codewars) - `Array.findIndex()`, `Array.splice()`
 - [Replace with Alphabet Position](https://github.com/voidteddy/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `Array.map()`, `Array.join()`
+- [Return the Largest Numbers in Arrays](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/largest-numbers.js) (freeCodeCamp) - `Array.map()`
 - [Shortest Word](https://github.com/voidteddy/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `Array.map()`
+- [Slice and Splice](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/slice-and-splice.js) (freeCodeCamp) - `Array.splice()`
 - [Stop gninnipS My sdroW!](https://github.com/voidteddy/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `Array.map()`, `Array.reverse()`, `Array.join()`
+- [Title Casing a Sentence](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `Array.map()`, `Array.join()`
 - [Vasya Clerk](https://github.com/voidteddy/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `Array.forEach()`
+- [Where Do I Belong](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/where-do-i-belong.js) (freeCodeCamp) - `Array.sort()`
 
 #### Misc Methods
 
@@ -114,4 +129,5 @@ If navigating via JavaScript concepts and methods isn't your cup of tea, you can
 
 #### Other
 
-- [Leap Years](https://github.com/voidteddy/js-exercises/blob/main/the-odin-project/leap-years.js) (The Odin Project) - `if` statements
+- [Convert Celsius to Fahrenheit](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/convert-ctof.js) (freeCodeCamp)
+- [Boo Who](https://github.com/voidteddy/js-exercises/blob/main/freecodecamp/boo-who.js) (freeCodeCamp) - `typeof` operator
