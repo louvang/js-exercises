@@ -75,6 +75,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Stop gninnipS My sdroW!](https://github.com/louvang/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `String.split()`
 - [Title Casing a Sentence](https://github.com/louvang/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `String.toLowerCase`, `String.toUpperCase()`, `String.slice()`,
 - [Truncate a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/truncate-a-string.js) (freeCodeCamp) - `String.slice()`
+- [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
 
 #### Number/Math Methods
 
@@ -89,7 +90,9 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 #### Array Methods
 
+- [Array.diff](https://github.com/louvang/js-exercises/blob/main/codewars/array-diff.js) (Codewars) - `Array.filter()`
 - [Bit Counting](https://github.com/louvang/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Array.reduce()`
+- [Categorize New Member](https://github.com/louvang/js-exercises/blob/main/codewars/categorize-new-member.js) (Codewars) - `Array.map()`
 - [Caesar Cipher](https://github.com/louvang/js-exercises/blob/main/the-odin-project/caesar-cipher.js) (The Odin Project) - `Array.map()`, `Array.join()`
 - [Calculator](https://github.com/louvang/js-exercises/blob/main/the-odin-project/calculator.js) (The Odin Project) - `Array.reduce()`, `Array.push()`
 - [Chunky Monkey](https://github.com/louvang/js-exercises/blob/main/freecodecamp/chunky-monkey.js) (freeCodeCamp) - `Array.push()`
@@ -122,6 +125,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 - [Get the Titles](https://github.com/louvang/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - get titles from an array of objects: `Array.map()`
 - [Object Constructor Exercise](https://github.com/louvang/js-exercises/blob/main/the-odin-project/object-constructor.js) (The Odin Project) - dot notation, bracket notation
+- [Who likes this?](https://github.com/louvang/js-exercises/blob/main/codewars/who-likes-this.js) (Codewars) - `switch` statement
 - [Vasya Clerk](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `switch` statement
 
 #### Constructors
@@ -133,3 +137,4 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 - [Convert Celsius to Fahrenheit](https://github.com/louvang/js-exercises/blob/main/freecodecamp/convert-ctof.js) (freeCodeCamp)
 - [Boo Who](https://github.com/louvang/js-exercises/blob/main/freecodecamp/boo-who.js) (freeCodeCamp) - `typeof` operator
+- [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
