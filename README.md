@@ -26,6 +26,8 @@ console.log(addNums(75, 3));
 console.log(addNums(4, 19));
 ```
 
+Note: Some solutions may not have a console case to test against such as many of the solutions for HackerRank.
+
 The solutions are all listed below and sorted via various JavaScript concepts and methods. Some solutions may be listed multiple times. I've compiled these exercises as an easy reference for me should I get stuck anywhere during my future code endeavours.
 
 ## Solutions
@@ -44,6 +46,8 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 - [Factorialize a Number](https://github.com/louvang/js-exercises/blob/main/freecodecamp/factorialize-a-number.js) (freeCodeCamp) - looping to multiply numbers
 - [Fibonacci](https://github.com/louvang/js-exercises/blob/main/the-odin-project/fibonacci.js) (Codewars) - looping to add elements to an array
+- [Inventory Update](https://github.com/louvang/js-exercises/blob/main/freecodecamp/inventory-update.js) (freeCodeCamp) - loop through multiple 2D arrays
+- [Inventory Update](https://github.com/louvang/js-exercises/blob/main/hackerrank/loops.js) (HackerRank) - loop within a loop
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - looping through string characters
 - [Multiples of 3 and 5](https://github.com/louvang/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `sum += i`
 - [Palindromes](https://github.com/louvang/js-exercises/blob/main/the-odin-project/palindromes.js) (The Odin Project) - looping to add elements to an array
@@ -56,6 +60,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 #### Regex
 
+- [Begins and Ends with the Same Vowel](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-1.js) (HackerRank) - anchors (`^` and `$`), backreference (`\1`), `i` flag to ignore case, `m` flag for multiline (so that anchors work)
 - [Exes and Ohs](https://github.com/louvang/js-exercises/blob/main/codewars/exes-and-ohs.js) (Codewars) - `String.match()`, match specific letter regardless of case: `/o/gi`, `/x/gi`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.match()`, match one letter regardless of case: `/[a-z]/i`
 - [Replace with Alphabet Position](https://github.com/louvang/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `String.match()`, match multiple letters regardless of case: `/[a-z]/gi`
@@ -79,6 +84,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 #### Number/Math Methods
 
+- [Area and Perimeter of a Circle](https://github.com/louvang/js-exercises/blob/main/hackerrank/ap-circle.js) (HackerRank) - `Math.pow(base, exponent)`, `Math.PI`
 - [Bit Counting](https://github.com/louvang/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Number.toString(2)`
 - [Calculator](https://github.com/louvang/js-exercises/blob/main/the-odin-project/calculator.js) (The Odin Project) - `Math.pow()`
 - [Find the Longest Word In a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Math.max()`
@@ -137,4 +143,5 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 - [Convert Celsius to Fahrenheit](https://github.com/louvang/js-exercises/blob/main/freecodecamp/convert-ctof.js) (freeCodeCamp)
 - [Boo Who](https://github.com/louvang/js-exercises/blob/main/freecodecamp/boo-who.js) (freeCodeCamp) - `typeof` operator
+- [Factorial](https://github.com/louvang/js-exercises/blob/main/hackerrank/factorial.js) (HackerRank) - find a factorial using recursion
 - [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
