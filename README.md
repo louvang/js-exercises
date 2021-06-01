@@ -61,6 +61,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 #### Regex
 
 - [Begins and Ends with the Same Vowel](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-1.js) (HackerRank) - anchors (`^` and `$`), backreference (`\1`), `i` flag to ignore case, `m` flag for multiline (so that anchors work)
+- [Break camelCase](https://github.com/louvang/js-exercises/blob/main/codewars/break-camelCase.js) (Codewars) - `String.replace()`, capture found values with `$1`
 - [Exes and Ohs](https://github.com/louvang/js-exercises/blob/main/codewars/exes-and-ohs.js) (Codewars) - `String.match()`, match specific letter regardless of case: `/o/gi`, `/x/gi`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.match()`, match one letter regardless of case: `/[a-z]/i`
 - [Replace with Alphabet Position](https://github.com/louvang/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `String.match()`, match multiple letters regardless of case: `/[a-z]/gi`
@@ -89,6 +90,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Calculator](https://github.com/louvang/js-exercises/blob/main/the-odin-project/calculator.js) (The Odin Project) - `Math.pow()`
 - [Find the Longest Word In a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Math.max()`
 - [Find the Next Perfect Square](https://github.com/louvang/js-exercises/blob/main/codewars/find-the-next-perfect-square.js) (Codewars) - `Math.sqrt()`
+- [Get Second Largest](https://github.com/louvang/js-exercises/blob/main/hackerrank/second-largest.js) (HackerRank) - `Math.max()`
 - [Remove the Minimum](https://github.com/louvang/js-exercises/blob/main/codewars/remove-the-minimum.js) (Codewars) - `Math.min()`
 - [Return the Largest Numbers in Arrays](https://github.com/louvang/js-exercises/blob/main/freecodecamp/largest-numbers.js) (freeCodeCamp) - `Math.max()`
 - [Shortest Word](https://github.com/louvang/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `Math.min()`
@@ -107,6 +109,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Array.reduce()`
 - [Finders Keepers](https://github.com/louvang/js-exercises/blob/main/freecodecamp/finders-keepers.js) (freeCodeCamp) - `Array.find()`
 - [Friend or Foe?](https://github.com/louvang/js-exercises/blob/main/codewars/friend-or-foe.js) (Codewars) - `Array.filter()`
+- [Get Second Largest](https://github.com/louvang/js-exercises/blob/main/hackerrank/second-largest.js) (HackerRank) - `Array.filter()`
 - [Get the Titles](https://github.com/louvang/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - `Array.map()`
 - [Jaden Casing Strings](https://github.com/louvang/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `Array.push()`
@@ -143,5 +146,8 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 - [Convert Celsius to Fahrenheit](https://github.com/louvang/js-exercises/blob/main/freecodecamp/convert-ctof.js) (freeCodeCamp)
 - [Boo Who](https://github.com/louvang/js-exercises/blob/main/freecodecamp/boo-who.js) (freeCodeCamp) - `typeof` operator
-- [Factorial](https://github.com/louvang/js-exercises/blob/main/hackerrank/factorial.js) (HackerRank) - find a factorial using recursion
+- [Factorial](https://github.com/louvang/js-exercises/blob/main/hackerrank/factorial.js) (HackerRank) - recursion
+- [Get Grade](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-grade.js) (HackerRank) - if-else statements
+- [Get Letter](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-letter.js) (HackerRank) - switch staement
+- [Throw](https://github.com/louvang/js-exercises/blob/main/hackerrank/throw.js) (HackerRank) - try...catch statement
 - [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
