@@ -16,5 +16,5 @@ console.log(breakCamelCase('identifier'));
 // Should return: ''
 console.log(breakCamelCase(''));
 
-// Should return: ''
+// Should return: 'memory All Alone In The Moonlight'
 console.log(breakCamelCase('memoryAllAloneInTheMoonlight'));
