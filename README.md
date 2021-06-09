@@ -61,9 +61,11 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 #### Regex
 
 - [Begins and Ends with the Same Vowel](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-1.js) (HackerRank) - anchors (`^` and `$`), backreference (`\1`), `i` flag to ignore case, `m` flag for multiline (so that anchors work)
-- [Break camelCase](https://github.com/louvang/js-exercises/blob/main/codewars/break-camelCase.js) (Codewars) - `String.replace()`, capture found values with `$1`
+- [Break camelCase](https://github.com/louvang/js-exercises/blob/main/codewars/break-camelCase.js) (Codewars) - `String.replace()`, capture group within the `()` is referred to as `$1`
 - [Exes and Ohs](https://github.com/louvang/js-exercises/blob/main/codewars/exes-and-ohs.js) (Codewars) - `String.match()`, match specific letter regardless of case: `/o/gi`, `/x/gi`
+- [Find Integers](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-3.js) (HackerRank) - `String.match()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.match()`, match one letter regardless of case: `/[a-z]/i`
+- [Proper Prefix](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-2.js) (HackerRank) - `^`, `||`, `$`, `RegExp.test()`
 - [Replace with Alphabet Position](https://github.com/louvang/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `String.match()`, match multiple letters regardless of case: `/[a-z]/gi`
 
 #### String Methods
@@ -99,11 +101,13 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 #### Array Methods
 
 - [Array.diff](https://github.com/louvang/js-exercises/blob/main/codewars/array-diff.js) (Codewars) - `Array.filter()`
+- [Arrow Functions](https://github.com/louvang/js-exercises/blob/main/hackerrank/arrow-functions.js) (HackerRank) - `Array.map()`
 - [Bit Counting](https://github.com/louvang/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Array.reduce()`
 - [Categorize New Member](https://github.com/louvang/js-exercises/blob/main/codewars/categorize-new-member.js) (Codewars) - `Array.map()`
 - [Caesar Cipher](https://github.com/louvang/js-exercises/blob/main/the-odin-project/caesar-cipher.js) (The Odin Project) - `Array.map()`, `Array.join()`
 - [Calculator](https://github.com/louvang/js-exercises/blob/main/the-odin-project/calculator.js) (The Odin Project) - `Array.reduce()`, `Array.push()`
 - [Chunky Monkey](https://github.com/louvang/js-exercises/blob/main/freecodecamp/chunky-monkey.js) (freeCodeCamp) - `Array.push()`
+- [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - `Array.filter()`
 - [Detect Pangram](https://github.com/louvang/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `Array.every()`
 - [Find the Longest Word In a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Array.map()`
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Array.reduce()`
@@ -128,26 +132,34 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 #### Misc Methods
 
+- [Dates](https://github.com/louvang/js-exercises/blob/main/hackerrank/date.js) (HackerRank) - `Date()`, `Date.getDay()`
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Date.getFullYear()`
 
 #### Objects
 
 - [Get the Titles](https://github.com/louvang/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - get titles from an array of objects: `Array.map()`
 - [Object Constructor Exercise](https://github.com/louvang/js-exercises/blob/main/the-odin-project/object-constructor.js) (The Odin Project) - dot notation, bracket notation
+- [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - iterating through array of objects
+- [Create a Rectangle Object](https://github.com/louvang/js-exercises/blob/main/hackerrank/rectangle-object.js) (HackerRank) - return an object
 - [Who likes this?](https://github.com/louvang/js-exercises/blob/main/codewars/who-likes-this.js) (Codewars) - `switch` statement
 - [Vasya Clerk](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `switch` statement
 
 #### Constructors
 
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Date()`
+- [Inheritance](https://github.com/louvang/js-exercises/blob/main/hackerrank/inheritance.js) (HackerRank) - `this`, `prototype`, `extends`, `super()`,
 - [Object Constructor Exercise](https://github.com/louvang/js-exercises/blob/main/the-odin-project/object-constructor.js) (The Odin Project) - `new NameOfConstructor()`
+- [Polygon Class](https://github.com/louvang/js-exercises/blob/main/hackerrank/polygon-class.js) (HackerRank) - `this`
 
 #### Other
 
 - [Convert Celsius to Fahrenheit](https://github.com/louvang/js-exercises/blob/main/freecodecamp/convert-ctof.js) (freeCodeCamp)
+- [Binary Calculator](https://github.com/louvang/js-exercises/blob/main/hackerrank/binary-calc.js) (HackerRank) - DOM methods
 - [Boo Who](https://github.com/louvang/js-exercises/blob/main/freecodecamp/boo-who.js) (freeCodeCamp) - `typeof` operator
+- [Buttons Container](https://github.com/louvang/js-exercises/blob/main/hackerrank/buttons-container.js) (HackerRank) - DOM methods
 - [Factorial](https://github.com/louvang/js-exercises/blob/main/hackerrank/factorial.js) (HackerRank) - recursion
 - [Get Grade](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-grade.js) (HackerRank) - if-else statements
-- [Get Letter](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-letter.js) (HackerRank) - switch staement
+- [Get Letter](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-letter.js) (HackerRank) - switch statement
+- [Tagged Template Literals](https://github.com/louvang/js-exercises/blob/main/hackerrank/tagged-template-literals.js) (HackerRank) - `Math.sqrt()`, `Math.pow()`, `sort()`
 - [Throw](https://github.com/louvang/js-exercises/blob/main/hackerrank/throw.js) (HackerRank) - try...catch statement
 - [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
