@@ -44,6 +44,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 #### Loops
 
+- [Consecutive Strings](https://github.com/louvang/js-exercises/blob/main/codewars/consecutive-strings.js) (Codewars) - loops
 - [Factorialize a Number](https://github.com/louvang/js-exercises/blob/main/freecodecamp/factorialize-a-number.js) (freeCodeCamp) - looping to multiply numbers
 - [Fibonacci](https://github.com/louvang/js-exercises/blob/main/the-odin-project/fibonacci.js) (Codewars) - looping to add elements to an array
 - [Inventory Update](https://github.com/louvang/js-exercises/blob/main/freecodecamp/inventory-update.js) (freeCodeCamp) - loop through multiple 2D arrays
@@ -62,11 +63,13 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 - [Begins and Ends with the Same Vowel](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-1.js) (HackerRank) - anchors (`^` and `$`), backreference (`\1`), `i` flag to ignore case, `m` flag for multiline (so that anchors work)
 - [Break camelCase](https://github.com/louvang/js-exercises/blob/main/codewars/break-camelCase.js) (Codewars) - `String.replace()`, capture group within the `()` is referred to as `$1`
+- [Dubstep](https://github.com/louvang/js-exercises/blob/main/codewars/dubstep.js) (Codewars) - `{2,}` quantifier meaning two or more of, `String.replace()`, `String.trim()`
 - [Exes and Ohs](https://github.com/louvang/js-exercises/blob/main/codewars/exes-and-ohs.js) (Codewars) - `String.match()`, match specific letter regardless of case: `/o/gi`, `/x/gi`
 - [Find Integers](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-3.js) (HackerRank) - `String.match()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.match()`, match one letter regardless of case: `/[a-z]/i`
 - [Proper Prefix](https://github.com/louvang/js-exercises/blob/main/hackerrank/regexp-2.js) (HackerRank) - `^`, `||`, `$`, `RegExp.test()`
 - [Replace with Alphabet Position](https://github.com/louvang/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `String.match()`, match multiple letters regardless of case: `/[a-z]/gi`
+- [String Incrementer](https://github.com/louvang/js-exercises/blob/main/codewars/string-incrementer.js) (Codewars) - `String.replace()`, `String.match()`
 
 #### String Methods
 
@@ -110,8 +113,10 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - `Array.filter()`
 - [Detect Pangram](https://github.com/louvang/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `Array.every()`
 - [Find the Longest Word In a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Array.map()`
+- [Find the Middle](https://github.com/louvang/js-exercises/blob/main/codewars/find-the-middle.js) (Codewars) - `Array.findIndex()`
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Array.reduce()`
 - [Finders Keepers](https://github.com/louvang/js-exercises/blob/main/freecodecamp/finders-keepers.js) (freeCodeCamp) - `Array.find()`
+- [Format a String of Names](https://github.com/louvang/js-exercises/blob/main/codewars/format-string-of-names.js) (Codewars) - `Array.map()`
 - [Friend or Foe?](https://github.com/louvang/js-exercises/blob/main/codewars/friend-or-foe.js) (Codewars) - `Array.filter()`
 - [Get Second Largest](https://github.com/louvang/js-exercises/blob/main/hackerrank/second-largest.js) (HackerRank) - `Array.filter()`
 - [Get the Titles](https://github.com/louvang/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - `Array.map()`
