@@ -78,6 +78,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Confirm the Ending](https://github.com/louvang/js-exercises/blob/main/freecodecamp/confirm-the-ending.js) (freeCodeCamp) - `String.slice()`
 - [Detect Pangram](https://github.com/louvang/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `String.split()`
 - [Jaden Casing Strings](https://github.com/louvang/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `String.split()`, creating string method: `String.prototype.myOwnMethod()`
+- [Longest Palindrome](https://github.com/louvang/js-exercises/blob/main/codewars/longest-palindrome.js) (Codewars) - `String.slice()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.toUpperCase()`, `String.slice()`
 - [Mumbling](https://github.com/louvang/js-exercises/blob/main/codewars/mumbling.js) (Codewars) - `String.toLowerCase()`, `String.toUpperCase()`, `String.repeat()`
 - [Mutations](https://github.com/louvang/js-exercises/blob/main/freecodecamp/mutations.js) (freeCodeCamp) - `String.indexOf()`, `String.toLowerCase()`
@@ -120,6 +121,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Friend or Foe?](https://github.com/louvang/js-exercises/blob/main/codewars/friend-or-foe.js) (Codewars) - `Array.filter()`
 - [Get Second Largest](https://github.com/louvang/js-exercises/blob/main/hackerrank/second-largest.js) (HackerRank) - `Array.filter()`
 - [Get the Titles](https://github.com/louvang/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - `Array.map()`
+- [Help the Bookseller](https://github.com/louvang/js-exercises/blob/main/codewars/help-the-bookseller.js) (Codewars) - `Array.map()`, `Array.filter()`, `Array.reduce()`
 - [Jaden Casing Strings](https://github.com/louvang/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `Array.push()`
 - [Multiples of 3 and 5](https://github.com/louvang/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `Array.reduce()`
@@ -131,6 +133,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Shortest Word](https://github.com/louvang/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `Array.map()`
 - [Slice and Splice](https://github.com/louvang/js-exercises/blob/main/freecodecamp/slice-and-splice.js) (freeCodeCamp) - `Array.splice()`
 - [Stop gninnipS My sdroW!](https://github.com/louvang/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `Array.map()`, `Array.reverse()`, `Array.join()`
+- [Supermarket Queue](https://github.com/louvang/js-exercises/blob/main/codewars/supermarket-queue.js) (Codewars) - `new Array(length)`, `Array.fill()`
 - [Title Casing a Sentence](https://github.com/louvang/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `Array.map()`, `Array.join()`
 - [Vasya Clerk](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `Array.forEach()`
 - [Where Do I Belong](https://github.com/louvang/js-exercises/blob/main/freecodecamp/where-do-i-belong.js) (freeCodeCamp) - `Array.sort()`
@@ -165,6 +168,8 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Factorial](https://github.com/louvang/js-exercises/blob/main/hackerrank/factorial.js) (HackerRank) - recursion
 - [Get Grade](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-grade.js) (HackerRank) - if-else statements
 - [Get Letter](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-letter.js) (HackerRank) - switch statement
+- [Multi-tap Keypad](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - objects, loops, array methods
+- [Sum of Pairs](https://github.com/louvang/js-exercises/blob/main/codewars/sum-of-pairs.js) (Codewars) - memoization, convert object into array
 - [Tagged Template Literals](https://github.com/louvang/js-exercises/blob/main/hackerrank/tagged-template-literals.js) (HackerRank) - `Math.sqrt()`, `Math.pow()`, `sort()`
 - [Throw](https://github.com/louvang/js-exercises/blob/main/hackerrank/throw.js) (HackerRank) - try...catch statement
-- [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
+- [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - `String.replace()`, `String.indexOf()`, recursion
