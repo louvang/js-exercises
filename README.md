@@ -145,6 +145,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 
 #### Objects
 
+- [Count Characters in Your String](https://github.com/louvang/js-exercises/blob/main/codewars/count-chars.js) (Codewars) - adding props to an object
 - [Get the Titles](https://github.com/louvang/js-exercises/blob/main/the-odin-project/get-the-titles.js) (The Odin Project) - get titles from an array of objects: `Array.map()`
 - [Object Constructor Exercise](https://github.com/louvang/js-exercises/blob/main/the-odin-project/object-constructor.js) (The Odin Project) - dot notation, bracket notation
 - [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - iterating through array of objects
@@ -169,6 +170,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Get Grade](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-grade.js) (HackerRank) - if-else statements
 - [Get Letter](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-letter.js) (HackerRank) - switch statement
 - [Multi-tap Keypad](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - objects, loops, array methods
+- [Prefill an Array](https://github.com/louvang/js-exercises/blob/main/codewars/prefill-an-array.js) (Codewars) - `throw`, `new TypeError()`
 - [Sum of Pairs](https://github.com/louvang/js-exercises/blob/main/codewars/sum-of-pairs.js) (Codewars) - memoization, convert object into array
 - [Tagged Template Literals](https://github.com/louvang/js-exercises/blob/main/hackerrank/tagged-template-literals.js) (HackerRank) - `Math.sqrt()`, `Math.pow()`, `sort()`
 - [Throw](https://github.com/louvang/js-exercises/blob/main/hackerrank/throw.js) (HackerRank) - try...catch statement
