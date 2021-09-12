@@ -113,6 +113,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Chunky Monkey](https://github.com/louvang/js-exercises/blob/main/freecodecamp/chunky-monkey.js) (freeCodeCamp) - `Array.push()`
 - [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - `Array.filter()`
 - [Detect Pangram](https://github.com/louvang/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `Array.every()`
+- [Encrypt This!](https://github.com/louvang/js-exercises/blob/main/codewars/encrypt-this.js) (Codewars) - `Array.map()`
 - [Find the Longest Word In a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Array.map()`
 - [Find the Middle](https://github.com/louvang/js-exercises/blob/main/codewars/find-the-middle.js) (Codewars) - `Array.findIndex()`
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Array.reduce()`
