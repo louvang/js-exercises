@@ -28,7 +28,7 @@ console.log(addNums(4, 19));
 
 Note: Some solutions may not have a console case to test against such as many of the solutions for HackerRank.
 
-The solutions are all listed below and sorted via various JavaScript concepts and methods. Some solutions may be listed multiple times. I've compiled these exercises as an easy reference for me should I get stuck anywhere during my future code endeavours.
+The solutions are all listed below and categorized via various JavaScript concepts and methods. Some solutions may be listed multiple times.
 
 ## Solutions
 
@@ -47,8 +47,10 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Consecutive Strings](https://github.com/louvang/js-exercises/blob/main/codewars/consecutive-strings.js) (Codewars) - loops
 - [Factorialize a Number](https://github.com/louvang/js-exercises/blob/main/freecodecamp/factorialize-a-number.js) (freeCodeCamp) - looping to multiply numbers
 - [Fibonacci](https://github.com/louvang/js-exercises/blob/main/the-odin-project/fibonacci.js) (Codewars) - looping to add elements to an array
+- [Find the Index of the First Occurrence in a String](https://github.com/louvang/js-exercises/blob/main/leetcode/index-first-occurence.js) (LeetCode) - loop through letters of an array to ensure sequence matches string
 - [Inventory Update](https://github.com/louvang/js-exercises/blob/main/freecodecamp/inventory-update.js) (freeCodeCamp) - loop through multiple 2D arrays
 - [Inventory Update](https://github.com/louvang/js-exercises/blob/main/hackerrank/loops.js) (HackerRank) - loop within a loop
+- [Merge Strings Alternately](https://github.com/louvang/js-exercises/blob/main/leetcode/merge-strings-alternately.js) (LeetCode) - loop through each character to create new string
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - looping through string characters
 - [Multiples of 3 and 5](https://github.com/louvang/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `sum += i`
 - [Palindromes](https://github.com/louvang/js-exercises/blob/main/the-odin-project/palindromes.js) (The Odin Project) - looping to add elements to an array
@@ -87,7 +89,8 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Stop gninnipS My sdroW!](https://github.com/louvang/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `String.split()`
 - [Title Casing a Sentence](https://github.com/louvang/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `String.toLowerCase`, `String.toUpperCase()`, `String.slice()`,
 - [Truncate a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/truncate-a-string.js) (freeCodeCamp) - `String.slice()`
-- [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - String.replace(), String.indexOf(), recursion
+- [Valid Anagram](https://github.com/louvang/js-exercises/blob/main/leetcode/valid-anagram.js) (LeetCode) - `String.split()`
+- [Valid Parentheses](https://github.com/louvang/js-exercises/blob/main/codewars/valid-parentheses.js) (Codewars) - `String.replace()`, `String.indexOf()`, recursion
 
 #### Number/Math Methods
 
@@ -114,6 +117,8 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - `Array.filter()`
 - [Detect Pangram](https://github.com/louvang/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `Array.every()`
 - [Encrypt This!](https://github.com/louvang/js-exercises/blob/main/codewars/encrypt-this.js) (Codewars) - `Array.map()`
+- [Find the Difference](https://github.com/louvang/js-exercises/blob/main/leetcode/find-the-difference.js) (LeetCode) - `Array.forEach()`, `Array.findIndex()`
+- [Find the Index of the First Occurrence in a String](https://github.com/louvang/js-exercises/blob/main/leetcode/index-first-occurence.js) (LeetCode) - `Array.findIndex`
 - [Find the Longest Word In a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/longest-word.js) (freeCodeCamp) - `Array.map()`
 - [Find the Middle](https://github.com/louvang/js-exercises/blob/main/codewars/find-the-middle.js) (Codewars) - `Array.findIndex()`
 - [Find the Oldest](https://github.com/louvang/js-exercises/blob/main/the-odin-project/find-the-oldest.js) (The Odin Project) - `Array.reduce()`
@@ -136,6 +141,7 @@ The solutions are all listed below and sorted via various JavaScript concepts an
 - [Stop gninnipS My sdroW!](https://github.com/louvang/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `Array.map()`, `Array.reverse()`, `Array.join()`
 - [Supermarket Queue](https://github.com/louvang/js-exercises/blob/main/codewars/supermarket-queue.js) (Codewars) - `new Array(length)`, `Array.fill()`
 - [Title Casing a Sentence](https://github.com/louvang/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `Array.map()`, `Array.join()`
+- [Valid Anagram](https://github.com/louvang/js-exercises/blob/main/leetcode/valid-anagram.js) (LeetCode) - `Array.sort()`, `Array.join()`
 - [Vasya Clerk](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `Array.forEach()`
 - [Where Do I Belong](https://github.com/louvang/js-exercises/blob/main/freecodecamp/where-do-i-belong.js) (freeCodeCamp) - `Array.sort()`
 
