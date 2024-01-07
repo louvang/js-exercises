@@ -56,6 +56,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Palindromes](https://github.com/louvang/js-exercises/blob/main/the-odin-project/palindromes.js) (The Odin Project) - looping to add elements to an array
 - [Repeat a String Repeat a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/repeat-string.js) (freeCodeCamp) - looping to repeat a string
 - [Repeat String](https://github.com/louvang/js-exercises/blob/main/the-odin-project/repeat-string.js) (The Odin Project) - looping to repeat a string
+- [Repeated Substring Pattern](https://github.com/louvang/js-exercises/blob/main/leetcode/repeated-substring-pattern.js) (LeetCode) - while and for loop
 - [Reverse a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/reverse-a-string.js) (freeCodeCamp) - looping to add strings to a string
 - [Reverse String](https://github.com/louvang/js-exercises/blob/main/the-odin-project/reverse-string.js) (The Odin Project) - looping to add strings to a string
 - [Sum All](https://github.com/louvang/js-exercises/blob/main/the-odin-project/sum-all.js) (The Odin Project) - looping to find sum
@@ -134,6 +135,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Mumbling](https://github.com/louvang/js-exercises/blob/main/codewars/mumbling.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Remove from Array](https://github.com/louvang/js-exercises/blob/main/the-odin-project/remove-from-array.js) (The Odin Project) - `Array.splice()`, `Array.indexOf()`
 - [Remove the Minimum](https://github.com/louvang/js-exercises/blob/main/codewars/remove-the-minimum.js) (Codewars) - `Array.findIndex()`, `Array.splice()`
+- [Repeated Substring Pattern](https://github.com/louvang/js-exercises/blob/main/leetcode/repeated-substring-pattern.js) (LeetCode) - `Array.every()`
 - [Replace with Alphabet Position](https://github.com/louvang/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Return the Largest Numbers in Arrays](https://github.com/louvang/js-exercises/blob/main/freecodecamp/largest-numbers.js) (freeCodeCamp) - `Array.map()`
 - [Shortest Word](https://github.com/louvang/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `Array.map()`
