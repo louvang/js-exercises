@@ -52,6 +52,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Inventory Update](https://github.com/louvang/js-exercises/blob/main/hackerrank/loops.js) (HackerRank) - loop within a loop
 - [Merge Strings Alternately](https://github.com/louvang/js-exercises/blob/main/leetcode/merge-strings-alternately.js) (LeetCode) - loop through each character to create new string
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - looping through string characters
+- [Move Zeroes](https://github.com/louvang/js-exercises/blob/main/leetcode/move-zeroes.js) (LeetCode) - for loop
 - [Multiples of 3 and 5](https://github.com/louvang/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `sum += i`
 - [Palindromes](https://github.com/louvang/js-exercises/blob/main/the-odin-project/palindromes.js) (The Odin Project) - looping to add elements to an array
 - [Repeat a String Repeat a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/repeat-string.js) (freeCodeCamp) - looping to repeat a string
