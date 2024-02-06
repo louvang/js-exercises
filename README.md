@@ -55,6 +55,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Move Zeroes](https://github.com/louvang/js-exercises/blob/main/leetcode/move-zeroes.js) (LeetCode) - for loop
 - [Multiples of 3 and 5](https://github.com/louvang/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `sum += i`
 - [Palindromes](https://github.com/louvang/js-exercises/blob/main/the-odin-project/palindromes.js) (The Odin Project) - looping to add elements to an array
+- [Plus One](https://github.com/louvang/js-exercises/blob/main/leetcode/plus-one.js) (LeetCode) - for loop
 - [Repeat a String Repeat a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/repeat-string.js) (freeCodeCamp) - looping to repeat a string
 - [Repeat String](https://github.com/louvang/js-exercises/blob/main/the-odin-project/repeat-string.js) (The Odin Project) - looping to repeat a string
 - [Repeated Substring Pattern](https://github.com/louvang/js-exercises/blob/main/leetcode/repeated-substring-pattern.js) (LeetCode) - while and for loop
@@ -133,6 +134,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Jaden Casing Strings](https://github.com/louvang/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `Array.push()`
 - [Multiples of 3 and 5](https://github.com/louvang/js-exercises/blob/main/codewars/multiples-of-3-or-5.js) (Codewars) - finding the sum: `Array.reduce()`
+- [Mumbling](https://github.com/louvang/js-exercises/blob/main/codewars/mumbling.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Mumbling](https://github.com/louvang/js-exercises/blob/main/codewars/mumbling.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Remove from Array](https://github.com/louvang/js-exercises/blob/main/the-odin-project/remove-from-array.js) (The Odin Project) - `Array.splice()`, `Array.indexOf()`
 - [Remove the Minimum](https://github.com/louvang/js-exercises/blob/main/codewars/remove-the-minimum.js) (Codewars) - `Array.findIndex()`, `Array.splice()`
