@@ -141,6 +141,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Repeated Substring Pattern](https://github.com/louvang/js-exercises/blob/main/leetcode/repeated-substring-pattern.js) (LeetCode) - `Array.every()`
 - [Replace with Alphabet Position](https://github.com/louvang/js-exercises/blob/main/codewars/replace-with-alphabet-position.js) (Codewars) - `Array.map()`, `Array.join()`
 - [Return the Largest Numbers in Arrays](https://github.com/louvang/js-exercises/blob/main/freecodecamp/largest-numbers.js) (freeCodeCamp) - `Array.map()`
+- [Sign od Product of Array](https://github.com/louvang/js-exercises/blob/main/leetcode/sign-of-product.js) (LeetCode) - `Array.sum()`
 - [Shortest Word](https://github.com/louvang/js-exercises/blob/main/codewars/shortest-word.js) (Codewars) - `Array.map()`
 - [Slice and Splice](https://github.com/louvang/js-exercises/blob/main/freecodecamp/slice-and-splice.js) (freeCodeCamp) - `Array.splice()`
 - [Stop gninnipS My sdroW!](https://github.com/louvang/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `Array.map()`, `Array.reverse()`, `Array.join()`
