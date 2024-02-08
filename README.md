@@ -110,6 +110,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 
 #### Array Methods
 
+- [Can Make Arithmetic Progression From Sequence](https://github.com/louvang/js-exercises/blob/main/leetcode/arithmetic-progression.js) (LeetCode) - `Array.sort()`, `Array.map()`, `Array.pop()`, `Array.every()`
 - [Array.diff](https://github.com/louvang/js-exercises/blob/main/codewars/array-diff.js) (Codewars) - `Array.filter()`
 - [Arrow Functions](https://github.com/louvang/js-exercises/blob/main/hackerrank/arrow-functions.js) (HackerRank) - `Array.map()`
 - [Bit Counting](https://github.com/louvang/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Array.reduce()`
