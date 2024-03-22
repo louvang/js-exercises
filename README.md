@@ -165,6 +165,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Object Constructor Exercise](https://github.com/louvang/js-exercises/blob/main/the-odin-project/object-constructor.js) (The Odin Project) - dot notation, bracket notation
 - [Create Objects](https://github.com/louvang/js-exercises/blob/main/hackerrank/count-objects.js) (HackerRank) - iterating through array of objects
 - [Create a Rectangle Object](https://github.com/louvang/js-exercises/blob/main/hackerrank/rectangle-object.js) (HackerRank) - return an object
+- [Roman to Integer](https://github.com/louvang/js-exercises/blob/main/leetcode/roman-to-integer.js) (LeetCode) - hash table
 - [Who likes this?](https://github.com/louvang/js-exercises/blob/main/codewars/who-likes-this.js) (Codewars) - `switch` statement
 - [Vasya Clerk](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `switch` statement
 
