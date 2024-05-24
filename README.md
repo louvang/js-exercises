@@ -84,6 +84,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Confirm the Ending](https://github.com/louvang/js-exercises/blob/main/freecodecamp/confirm-the-ending.js) (freeCodeCamp) - `String.slice()`
 - [Detect Pangram](https://github.com/louvang/js-exercises/blob/main/codewars/detect-pangram.js) (Codewars) - `String.split()`
 - [Jaden Casing Strings](https://github.com/louvang/js-exercises/blob/main/codewars/jaden-case.js) (Codewars) - `String.split()`, creating string method: `String.prototype.myOwnMethod()`
+- [Length of Last Word](https://github.com/louvang/js-exercises/blob/main/leetcode/length-of-last-word.js) (LeetCode) - `String.trim()`
 - [Longest Palindrome](https://github.com/louvang/js-exercises/blob/main/codewars/longest-palindrome.js) (Codewars) - `String.slice()`
 - [Mexican Wave](https://github.com/louvang/js-exercises/blob/main/codewars/mexican-wave.js) (Codewars) - `String.toUpperCase()`, `String.slice()`
 - [Mumbling](https://github.com/louvang/js-exercises/blob/main/codewars/mumbling.js) (Codewars) - `String.toLowerCase()`, `String.toUpperCase()`, `String.repeat()`
