@@ -115,6 +115,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Can Make Arithmetic Progression From Sequence](https://github.com/louvang/js-exercises/blob/main/leetcode/arithmetic-progression.js) (LeetCode) - `Array.sort()`, `Array.map()`, `Array.pop()`, `Array.every()`
 - [Array.diff](https://github.com/louvang/js-exercises/blob/main/codewars/array-diff.js) (Codewars) - `Array.filter()`
 - [Arrow Functions](https://github.com/louvang/js-exercises/blob/main/hackerrank/arrow-functions.js) (HackerRank) - `Array.map()`
+- [Baseball Game](https://github.com/louvang/js-exercises/blob/main/leetcode/baseball-game.js) (LeetCode) - `Array.reduce`
 - [Bit Counting](https://github.com/louvang/js-exercises/blob/main/codewars/bit-counting.js) (Codewars) - `Array.reduce()`
 - [Categorize New Member](https://github.com/louvang/js-exercises/blob/main/codewars/categorize-new-member.js) (Codewars) - `Array.map()`
 - [Caesar Cipher](https://github.com/louvang/js-exercises/blob/main/the-odin-project/caesar-cipher.js) (The Odin Project) - `Array.map()`, `Array.join()`
