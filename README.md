@@ -150,6 +150,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Slice and Splice](https://github.com/louvang/js-exercises/blob/main/freecodecamp/slice-and-splice.js) (freeCodeCamp) - `Array.splice()`
 - [Stop gninnipS My sdroW!](https://github.com/louvang/js-exercises/blob/main/codewars/stop-spinning-my-words.js) (Codewars) - `Array.map()`, `Array.reverse()`, `Array.join()`
 - [Supermarket Queue](https://github.com/louvang/js-exercises/blob/main/codewars/supermarket-queue.js) (Codewars) - `new Array(length)`, `Array.fill()`
+- [Find Winner on a TicTacToe Game](https://github.com/louvang/js-exercises/blob/main/leetcode/tictactoe.js) (LeetCode) - `Array.forEach()`, `Array.some()`, `Array.indexOf()`
 - [Title Casing a Sentence](https://github.com/louvang/js-exercises/blob/main/freecodecamp/title-casing.js) (freeCodeCamp) - `Array.map()`, `Array.join()`
 - [Valid Anagram](https://github.com/louvang/js-exercises/blob/main/leetcode/valid-anagram.js) (LeetCode) - `Array.sort()`, `Array.join()`
 - [Vasya Clerk](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - `Array.forEach()`
@@ -189,6 +190,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Get Letter](https://github.com/louvang/js-exercises/blob/main/hackerrank/get-letter.js) (HackerRank) - switch statement
 - [Multi-tap Keypad](https://github.com/louvang/js-exercises/blob/main/codewars/vasya-clerk.js) (Codewars) - objects, loops, array methods
 - [Prefill an Array](https://github.com/louvang/js-exercises/blob/main/codewars/prefill-an-array.js) (Codewars) - `throw`, `new TypeError()`
+- [Robot Return to Origin](https://github.com/louvang/js-exercises/blob/main/leetcode/robot-return-to-origin.js) (LeetCode) - switch statement
 - [Sum of Pairs](https://github.com/louvang/js-exercises/blob/main/codewars/sum-of-pairs.js) (Codewars) - memoization, convert object into array
 - [Tagged Template Literals](https://github.com/louvang/js-exercises/blob/main/hackerrank/tagged-template-literals.js) (HackerRank) - `Math.sqrt()`, `Math.pow()`, `sort()`
 - [Throw](https://github.com/louvang/js-exercises/blob/main/hackerrank/throw.js) (HackerRank) - try...catch statement
