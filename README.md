@@ -62,6 +62,7 @@ The solutions are all listed below and categorized via various JavaScript concep
 - [Repeated Substring Pattern](https://github.com/louvang/js-exercises/blob/main/leetcode/repeated-substring-pattern.js) (LeetCode) - while and for loop
 - [Reverse a String](https://github.com/louvang/js-exercises/blob/main/freecodecamp/reverse-a-string.js) (freeCodeCamp) - looping to add strings to a string
 - [Reverse String](https://github.com/louvang/js-exercises/blob/main/the-odin-project/reverse-string.js) (The Odin Project) - looping to add strings to a string
+- [Robot Bounded In Circle](https://github.com/louvang/js-exercises/blob/main/leetcode/robot-bounded.js) (LeetCode) - `for ... of` loop
 - [Sum All](https://github.com/louvang/js-exercises/blob/main/the-odin-project/sum-all.js) (The Odin Project) - looping to find sum
 - [Where Do I Belong](https://github.com/louvang/js-exercises/blob/main/freecodecamp/where-do-i-belong.js) (freeCodeCamp) - looping through array to find index
 
